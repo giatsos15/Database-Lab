@@ -3,7 +3,7 @@ import mysql.connector
 
 USER = "root"
 DATABASE_NAME = "testLab_3DB"
-psw = "!ggia3693"
+psw = "****"
 
 
 def show_databases(cursor):
